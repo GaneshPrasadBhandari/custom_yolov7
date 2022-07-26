@@ -1,0 +1,6 @@
+yes
+hello
+iloveyou
+no
+please
+thankyou
